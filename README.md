@@ -2,7 +2,7 @@
 
 A Dynamic DNS server implementation for DAppNode.
 
-In most of the cases, nodes running at home are using a dynamic IP provided by the ISP. Clients configured to connect to a provided IP will eventually lose connectivity to the DAppNode because its IP will change. At the moment we don't have any truly distributed, cross-platform and user friendly alternative to solve this, so we make use of a optional centralized service (which can be easily replicated) until we find a proper solution.
+In most of the cases, nodes running at home are using a dynamic IP provided by the ISP. Clients configured to connect to a provided IP will eventually lose connectivity to the DAppNode because its IP will change. At the moment we don't have any truly distributed, cross-platform and user friendly alternative to solve this, so we make use of an optional centralized service (which can be easily replicated) until we find a proper solution.
 
 ## Installation
 
